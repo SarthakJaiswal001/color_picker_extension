@@ -1,0 +1,4 @@
+manifest.json is metadata which contains all the information about the extension
+background key in manifest tells us the files which will perform tasks in the background
+icons key in manifest json file is used to add icon to our extension of different size
+
